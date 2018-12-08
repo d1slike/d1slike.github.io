@@ -1,9 +1,6 @@
-# Интернет-технологии 2018
-## ИДМ-18-01 Бригада "УХ"
-* [Комиссаров Я.В. (РП, СП, БА, АД, ПП)](https://github.com/d1slike)
-* [Яскевич К.И. (РП, СП, ПП)](https://github.com/KonstantinYaskevich)
-* [Усенко Л.Ю. (СА, ПП)](https://github.com/levich95)
-* [Лихачев С.В. (НИ, БА)](https://github.com/lihach13)
+## Комиссаров Я.В. ИДМ-18-01
 
-## Спортивная Москва
-## Требования
+* [Github профиль](https://github.com/d1slike)
+* [Репозиторий](https://github.com/d1slike/inet-lab)
+* [Отчет](https://d1slike.github.io)
+* [Билет](https://github.com/stankin/inet-2018/wiki/%D0%91%D0%B8%D0%BB%D0%B5%D1%82-19)
